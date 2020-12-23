@@ -1,3 +1,5 @@
-# PSD to HTML Conversion.
+# PSD to HTML Conversion
 
-https://goniti.github.io/merkuryLandingPage/
+### Here is the model
+
+![PSD](./extra/FilterMerkuryLandingPage.png)
